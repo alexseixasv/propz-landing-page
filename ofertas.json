@@ -1,0 +1,64 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "titulo": "Ferrari Black",
+            "ml": "120ml",
+            "descripcion": "Perfume com fragância XYZ para homens",
+            "preco": 189.99,
+            "moeda": "R$",
+            "parcelas": "3x de R$ 63,33 sem juros",
+            "imagem": "img/ferrari-black.webp"
+        },
+        {
+            "id": 2,
+            "titulo": "Sauvage Dior",
+            "ml": "100ml",
+            "descripcion": "Perfume com fragância XYZ para homens",
+            "preco": 789.99,
+            "moeda": "R$",
+            "parcelas": "3x de R$ 263,33 sem juros",
+            "imagem": "img/sauvage-dior.jpg"
+        },
+        {
+            "id": 3,
+            "titulo": "212 VIP",
+            "ml": "120ml",
+            "descripcion": "Perfume com fragância XYZ para homens",
+            "preco": 389.99,
+            "moeda": "R$",
+            "parcelas": "3x de R$ 129,99 sem juros",
+            "imagem": "img/212.webp"
+        },
+        {
+            "id": 4,
+            "titulo": "Antonio Banderas",
+            "ml": "100ml",
+            "descripcion": "Perfume com fragância XYZ para homens",
+            "preco": 289.99,
+            "moeda": "R$",
+            "parcelas": "3x de R$ 96,66 sem juros",
+            "imagem": "img/antonio-banderas.jpg"
+        },
+        {
+            "id": 5,
+            "titulo": "Montblanc",
+            "ml": "110ml",
+            "descripcion": "Perfume com fragância XYZ para homens",
+            "preco": 589.99,
+            "moeda": "R$",
+            "parcelas": "3x de R$ 196,66 sem juros",
+            "imagem": "img/montblanc.webp"
+        },
+        {
+            "id": 6,
+            "titulo": "One Million",
+            "ml": "130ml",
+            "descripcion": "Perfume com fragância XYZ para homens",
+            "preco": 689.99,
+            "moeda": "R$",
+            "parcelas": "3x de R$ 229,99 sem juros",
+            "imagem": "img/one-million.png"
+        }
+    ]
+}
